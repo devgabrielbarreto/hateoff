@@ -1,23 +1,22 @@
 {
-    "name":"HATEOFF",
-    "version":"1.0",
-    "description":"Informa os possíveis tweets que provavelmente são racistas.",
-    "manifest_version": 3,
-      "icons": {
+  "manifest_version": 3,
+  "name": "Hateoff",
+  "version": "1.0.0",
+  "description": "Analisa tweets com Machine Learning para identificar possíveis discursos racistas e apoiar a denúncia.",
+  "icons": {
     "16": "images/icon-16.png",
     "32": "images/icon-32.png",
     "48": "images/icon-48.png",
     "128": "images/icon-128.png"
   },
-    "permissions": ["activeTab","scripting"],
- 
-    "content_scripts": [
-      {
-        "matches": ["https://twitter.com/*"],
-        "css": ["style.css"],
-        "js": ["main.js"]
-
-       
-      }
-    ]
+  "content_scripts": [
+    {
+      "matches": [
+        "https://twitter.com/*",
+        "https://x.com/*"
+      ],
+      "css": ["style.css"],
+      "js": ["main.js"]
+    }
+  ]
 }
