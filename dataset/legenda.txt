@@ -1,0 +1,11 @@
+Paula Fortuna: busca 1
+João A. Leite e Diego F. Silva:busca 2
+api do twitter:busca 3
+
+sinonimos: 
+negro, neguinho, negão, preto, raça desgraçada, escrava | primeira busca na API 
+nego, urubuzinho, sub-raça, macaca| segunda busca na API
+pretinha, mulambo, macumbeira | terceira  busca na API
+
+
+termos que acompanha: bandido, coisa de preto, cota vantagem, meritrocracia, racismo reverso, povo sujo, não merece, fdp, drogado, oportunidade, vitimiza, morte, lixo, espancado
