@@ -11,11 +11,12 @@ O combate ao discurso de ódio racista nas redes sociais depende majoritariament
 
 ---
 
-## 📸 Demonstração
+## 📸 Exemplos em Funcionamento
 
 | Classificado como Racista | Classificado como Não Racista |
 | :---: | :---: |
-| ![Exemplo classificado como racista](./docs/assets/exemplo-racista.png) | ![Exemplo classificado como não racista](./docs/assets/exemplo-nao-racista.png) |
+| ![Exemplo Racista 1](docs/assets/exemplo-racista1.png) | ![Exemplo Não Racista 1](docs/assets/exemplo-nao-racista1.png) |
+| ![Exemplo Racista 2](docs/assets/exemplo-racista2.png) | ![Exemplo Não Racista 2](docs/assets/exemplo-nao-racista2.png) |
 
 ---
 
